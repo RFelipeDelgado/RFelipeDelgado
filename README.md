@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hola <img width="35" src="https://github.com/RFelipeDelgado/RFelipeDelgado/blob/main/resources/img/waving.gif">, soy Raúl Felipe</h1>
+<h1 align="center">Hola<img width="35" src="https://github.com/RFelipeDelgado/RFelipeDelgado/blob/main/resources/img/waving.gif">,soy Raúl Felipe</h1>
 <h4 align="center">un desarrollador Full Stack recientemente graduado, mira mi CV aquí <a href="https://github.com/RFelipeDelgado/RFelipeDelgado/blob/main/assets/doc/azzar_resume.pdf" target="_blank">resume</a> para más info</h4>
 </div>
 
