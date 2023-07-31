@@ -1,5 +1,6 @@
 <div align="center">
 <h2>Hola! Soy Raúl Felipe, FullStack Dev recientemente graduado.</h2>
+  <p>No dudes en ver mis proyectos y contribuciones!</p>
 </div>
 
 
