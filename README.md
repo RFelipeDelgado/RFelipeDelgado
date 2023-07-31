@@ -4,10 +4,10 @@
 
 
 <details>
-  <summary>☎️ contact me</summary>
+  <summary>☎️ Contactame: </summary>
 <div>
   <samp>
-    <h2 align="center">you can reach me by:</h2>
+    <h2 align="center">Me puedes encontrar aquí:</h2>
     <p align="center">
       <br/>
       <a href="https://www.linkedin.com/in/raul-felipe-delgado-778378269" target="blank"><img align="center"
@@ -31,10 +31,10 @@
 </details>
 
 <details>
-  <summary>🧮 about</summary>
+  <summary>🧮 About: </summary>
 <div>
 <samp>
-<h2 align="center">About this Account</h2>
+<h2 align="center">Acerca de esta cuenta</h2>
  <p align="center">
   <a href="github.com/RaulFelipeDelgado" target="blank"><img align="center" 
      src="https://komarev.com/ghpvc/?username=RFelipeDelgado&style=for-the-badge&label=PROFILE+VIEWS" height="25"
@@ -67,7 +67,7 @@
     <h2 align="center"> Github stats </h2>
       <br/>
     <details open>
-  <summary><h3>Languages</h3></summary>
+  <summary><h3>Lenguajes</h3></summary>
             <p align="center">
         <a href="https://github.com/RFelipeDelgado/">
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RFelipeDelgado&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
@@ -83,7 +83,7 @@
         </p>
 </details>
     <details open>
-  <summary><h3>stasistic</h3></summary>
+  <summary><h3>Estadisticas</h3></summary>
         <p align="center">
           <a href="https://github.com/RFelipeDelgado/">
           <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=RFelipeDelgado&show_icons=true&theme=gruvbox&hide_border=true" />
