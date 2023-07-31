@@ -39,9 +39,7 @@
   <a href="github.com/RaulFelipeDelgado" target="blank"><img align="center" 
      src="https://komarev.com/ghpvc/?username=RFelipeDelgado&style=for-the-badge&label=PROFILE+VIEWS" height="25"
      alt="views count" /></a>
-  <a href="https://RFelipeDelgado.github.io/RFelipeDelgado/"><img align="center" 
-     src="https://img.shields.io/website?down_message=offline&style=for-the-badge&up_message=online&url=https%3A%2F%2FRFelipeDelgado.github.io%2FRFelipeDelgado%2F" height="25"
-     alt="website" /></a>
+
   </p>
  
  </samp>
