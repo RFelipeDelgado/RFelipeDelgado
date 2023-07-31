@@ -43,19 +43,7 @@
      src="https://img.shields.io/website?down_message=offline&style=for-the-badge&up_message=online&url=https%3A%2F%2FRFelipeDelgado.github.io%2FRFelipeDelgado%2F" height="25"
      alt="website" /></a>
   </p>
-  <p align="center">
-  <a href="github.com/RFelipeDelgado" target="blank"><img align="center" 
-     src="https://github.com/RFelipeDelgado/RFelipeDelgado/actions/workflows/pages/pages-build-deployment/badge.svg" height="25"
-     alt="page built"/></a>
-  </p>
- <p align="center">
-  <a href="github.com/RFelipeDelgado" target="blank"><img align="center" 
-     src="https://img.shields.io/github/license/RFelipeDelgado/RFelipeDelgado?color=purple&style=for-the-badge" height="25"
-     alt="lisense" /></a>
-  <a href="github.com/RFelipeDelgado"><img align="center"
-     src="https://forthebadge.com/images/badges/works-on-my-machine.svg" height="25"
-     alt="work on my machine" /></a>
- </p>
+ 
  </samp>
 </div>
 </details>
